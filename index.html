@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Horóscopo Diário</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>🔮 Horóscopo do Dia</h1>
+    <select id="signo">
+      <option value="">Escolha seu signo</option>
+      <option value="aries">Áries</option>
+      <option value="touro">Touro</option>
+      <option value="gemeos">Gêmeos</option>
+      <option value="cancer">Câncer</option>
+      <option value="leao">Leão</option>
+      <option value="virgem">Virgem</option>
+      <option value="libra">Libra</option>
+      <option value="escorpiao">Escorpião</option>
+      <option value="sagitario">Sagitário</option>
+      <option value="capricornio">Capricórnio</option>
+      <option value="aquario">Aquário</option>
+      <option value="peixes">Peixes</option>
+    </select>
+    <button onclick="buscarHoroscopo()">Ver Horóscopo</button>
+
+    <div id="resultado"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
