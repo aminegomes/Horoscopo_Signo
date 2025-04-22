@@ -19,7 +19,7 @@ Uma aplicação web simples que permite ao usuário selecionar seu signo e visua
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/horoscopo-diario.git
+   git clone https://github.com/aminegomes/horoscopo-diario.git
 
 2. Abra o projeto no seu editor de código (como o VS Code).
 3. Abra o arquivo index.html no navegador. Ou, se estiver usando o Live Server no VS Code, clique com o botão direito no index.html e escolha "Open with Live Server".
