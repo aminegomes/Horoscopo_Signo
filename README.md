@@ -27,8 +27,8 @@ Uma aplicação web simples que permite ao usuário selecionar seu signo e visua
 ## 📂 Estrutura do projeto
 
 horoscopo-diario/
-├── index.html
-├── style.css
-└── script.js
+- index.html
+- style.css
+- script.js
 
 Feito com 💙 por Amine :)
